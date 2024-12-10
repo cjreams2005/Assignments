@@ -1,0 +1,28 @@
+Analyzing ceaser.py
+Total Lines: 60
+Imports:
+No imports found.
+Classes:
+Ceaser:
+Functions:
+__init__
+get_key
+set_key
+encypt
+decrypt
+DocStrings:
+Ceaser:: DocString not found
+__init__: DocString not found
+get_key: DocString not found
+set_key: DocString not found
+encypt: DocString not found
+decrypt: DocString not found
+Type Annotation Check:
+__init__ is missing type annotations.
+get_key is missing type annotations.
+set_key is missing type annotations.
+encypt is missing type annotations.
+decrypt is missing type annotations.
+Naming Convention Check:
+Function encypt does not use lower_case_with_underscores.
+Function decrypt does not use lower_case_with_underscores.
